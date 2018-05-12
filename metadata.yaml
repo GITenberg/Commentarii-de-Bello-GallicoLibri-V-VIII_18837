@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3621
     wikipedia: http://en.wikipedia.org/wiki/Julius_Caesar
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18837#Commentarii-de-Bello-GallicoLibri-V-VIII
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2006-07-16'
 gutenberg_type: Text
