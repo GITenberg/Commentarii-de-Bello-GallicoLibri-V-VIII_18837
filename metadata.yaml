@@ -1,0 +1,37 @@
+_repo: Commentarii-de-Bello-GallicoLibri-V-VIII_18837
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caesar, Julius
+    aliases:
+    - Caesar, Caius Julius
+    - Cesare, C. Julio (Caio Julio)
+    - Cesare, Gaio Giulio
+    - Cesare, Caio Giulio
+    - Caesar, Gaius Julius
+    - Cesare, C. Iulio (Caio Iulio)
+    birthdate: -100
+    deathdate: -44
+    gutenberg_agent_id: '3621'
+    url: http://www.gutenberg.org/2009/agents/3621
+    wikipedia: http://en.wikipedia.org/wiki/Julius_Caesar
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2006-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18837'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gaul -- History -- Gallic Wars, 58-51 B.C.'
+- !lcc 'PA'
+title: 'Commentarii de Bello Gallico
+
+  Libri V-VIII'
+url: http://www.gutenberg.org/ebooks/18837
